@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-Project---Tennis
+# Multiple_Linear_Regression_Codecademy
 Basic project from the Codecademy ML course  
 
 https://www.codecademy.com/paths/machine-learning-fundamentals/tracks/mle-supervised-learning-i/modules/mle-multiple-linear-regression/projects/tennis-ace
